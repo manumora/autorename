@@ -1,0 +1,22 @@
+Source: autorename
+Section: python
+Priority: extra
+Maintainer: Manuel Mora Gordillo <manuito@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), python-support (>= 0.3)
+Build-Depends-Indep: python
+
+Package: autorename-client
+Architecture: all
+Depends: python
+Conflicts: autorename-server
+Description: Autorenombrado de portatiles
+ Autorename gestiona el autorenombrado de portatiles asignando
+ al portatil el nombre del usuario al que esta asignado
+
+Package: autorename-server
+Architecture: all
+Depends: python
+Conflicts: autorename-client
+Description: Autorenombrado de portatiles
+ Tras el autorenombrado del portatil, el servidor borra los 
+ certificados puppet del mismo y registra el cambio

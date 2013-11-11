@@ -1,0 +1,5 @@
+Instrucciones:
+ - Copiar el paquete autorename-client a /etc/puppet/files
+ - Copiar la tarea "instala_autorename.pp a /etc/puppet/manifest/clases/portatil-alumno/
+ - Añadir la clase "instala_autorename" a las clases especificas de los portatiles de alumnos
+ - Añadir "autorename-client" a /etc/puppet/files/mayhave.portatil y /etc/puppet/files/mayhave.portatil-basico para que no se desinstale

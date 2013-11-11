@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/servidores/!svn/ver/346/autorename/puppet
+END
+LEEME
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/servidores/!svn/ver/338/autorename/puppet/LEEME
+END
+instala_autorename.pp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/servidores/!svn/ver/346/autorename/puppet/instala_autorename.pp
+END

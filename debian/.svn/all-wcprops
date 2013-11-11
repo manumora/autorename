@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/servidores/!svn/ver/344/autorename/trunk/debian
+END
+links
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/servidores/!svn/ver/295/autorename/trunk/debian/links
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/servidores/!svn/ver/296/autorename/trunk/debian/control
+END
+autorename-client.install
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/servidores/!svn/ver/295/autorename/trunk/debian/autorename-client.install
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/servidores/!svn/ver/295/autorename/trunk/debian/compat
+END
+autorename-server.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/servidores/!svn/ver/306/autorename/trunk/debian/autorename-server.postinst
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/servidores/!svn/ver/344/autorename/trunk/debian/changelog
+END
+autorename-server.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/servidores/!svn/ver/309/autorename/trunk/debian/autorename-server.postrm
+END
+autorename-server.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/servidores/!svn/ver/317/autorename/trunk/debian/autorename-server.prerm
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/servidores/!svn/ver/295/autorename/trunk/debian/rules
+END
+autorename-client.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/servidores/!svn/ver/332/autorename/trunk/debian/autorename-client.postinst
+END
+autorename-client.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/servidores/!svn/ver/309/autorename/trunk/debian/autorename-client.postrm
+END
+autorename-server.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/servidores/!svn/ver/299/autorename/trunk/debian/autorename-server.dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/servidores/!svn/ver/295/autorename/trunk/debian/copyright
+END
+autorename-server.install
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/servidores/!svn/ver/295/autorename/trunk/debian/autorename-server.install
+END
+autorename-client.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/servidores/!svn/ver/311/autorename/trunk/debian/autorename-client.dirs
+END

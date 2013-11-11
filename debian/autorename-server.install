@@ -1,0 +1,2 @@
+server.py usr/share/autorename-server
+autorename /etc/init.d
