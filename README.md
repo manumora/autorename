@@ -1,0 +1,4 @@
+autorename
+==========
+
+Autorename client computers
