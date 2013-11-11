@@ -1,25 +1,25 @@
-##############################################################################
-# Project:     Autorename
-# Purpose:     Autorename of laptops
-# Language:    Python 2.5
-# Date:        23-Apr-2012.
-# Author:      Manuel Mora Gordillo
-# Copyright:   2012 - Manuel Mora Gordillo    <manuito @nospam@ gmail.com>
-#
-# Autorename is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# Autorename is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with Autorename. If not, see <http://www.gnu.org/licenses/>.
-#
-##############################################################################
+Project:     Autorename
+=======================
+* Purpose:     Autorename of laptops
+* Language:    Python 2.5
+* Date:        23-Apr-2012.
+* Author:      Manuel Mora Gordillo
+* Copyright:   2012 - Manuel Mora Gordillo    <manuito @nospam@ gmail.com>
+
+Autorename is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+Autorename is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with Autorename. If not, see <http://www.gnu.org/licenses/>.
+
 
 Descripción
+-----------
 En el cambio de curso escolar se hace imprescindible la reasignación de portátiles
 de unos alumnos a otros. Cada equipo se nombra con el username del alumno por lo 
 que al reasignar el portátil hay que renombrar el equipo.
@@ -28,7 +28,8 @@ algunos procesos. El motivo de este software es el autorenombrado del portátil 
 ser necesaria la intervención del Administrador Informático.
 
 Información técnica
-Paquetes:
+-------------------
+###Paquetes:
 	- autorename-client: Hay que instalarlo en los portátiles. Registra cada autenticación
 	de usuario y renombra el equipo si se cumplen cuatro condiciones:
 		* Al menos hay 10 autenticaciones de usuario
@@ -40,7 +41,7 @@ Paquetes:
 	- autorename-server: Hay que instalarlo en el servidor NFS. Está a la escucha y borra los
 	certificados puppet cuando un portátil es renombrado.
 
-Ficheros:
+####Ficheros:
 	- autorename-client:
 		* /etc/gdm/PostLogin/Default: ejecuta client.py cuando un usuario se ha autenticado
 		pasándole como parámetro el username
